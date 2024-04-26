@@ -1,0 +1,15 @@
+.col-8{
+    margin: auto;
+
+}
+
+.feature-icon {
+    width: 3rem;
+    height: 3rem;
+    border-radius: .75rem;
+}
+
+.text{
+    color: black;
+}
+
